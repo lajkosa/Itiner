@@ -1,0 +1,6 @@
+$color: #ff0055;
+
+body {
+    background-color: $color;
+    padding: 40px;
+}

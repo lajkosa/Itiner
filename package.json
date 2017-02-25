@@ -1,0 +1,28 @@
+{
+  "name": "itiner",
+  "version": "1.0.0",
+  "description": "Itiner planner application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lajkosa/Itiner.git"
+  },
+  "author": "Sándor Lajkó",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lajkosa/Itiner/issues"
+  },
+  "homepage": "https://github.com/lajkosa/Itiner#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.5",
+    "browsersync": "0.0.1-security",
+    "gulp-postcss": "^6.3.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-nested": "^1.0.0",
+    "postcss-simple-vars": "^3.0.0",
+    "webpack": "^2.2.1"
+  }
+}
